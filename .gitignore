@@ -1,1 +1,3 @@
+# Data files Ignore
+# 데이터의 파일의 크기가 약 20GB 이상으로 GitHub에 올릴 수 없어 무시 처리
 /data
